@@ -1,0 +1,8 @@
+https://www.cms.gov/regulations-and-guidance/legislation/clia
+https://stackoverflow.com/questions/30770213/no-schema-supplied-and-other-errors-with-using-requests-get
+https://www.ncbi.nlm.nih.gov/gtr/tests/566698/
+https://www.ncbi.nlm.nih.gov/gtr/tests/5666988/
+https://www.ncbi.nlm.nih.gov/gtr/tests/suresh/
+https://www.iplt20.com/
+https://www.fda.gov/medical-devices/ivd-regulatory-assistance/clia-categorizations
+https://www.fda.gov/medical-devices/ss/ivd-regulatory-assistance/clia-categorizations
