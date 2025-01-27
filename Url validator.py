@@ -10,7 +10,7 @@ headers = {
 with open('inputurls.txt', 'r') as urls:
     url_list = urls.readlines()
 
-with open('validated1_urls.csv', 'a') as wr:
+with open('validated_urls.csv', 'a') as wr:
     # Write column headers
     wr.write('Status_Code,Title,URL\n')
 
